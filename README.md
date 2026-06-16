@@ -18,9 +18,7 @@ Bacharelado em Ciência e Tecnologia @ UFABC
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 </div>
-<br><br>
+<br clear="both" /><br>
 
-<div align="center">
-  <img src="./kyubey.gif" height="40" />
-</div>
+<img src="./kyubey.gif" height="40" />
 </div>
